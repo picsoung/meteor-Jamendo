@@ -1,0 +1,95 @@
+<head>
+  <title>localJam</title>
+</head>
+
+<body>
+	<h1>Find Local bands on Jamendo</h1>
+  {{> searchForm}}
+  <br/>
+  {{> artistList}}
+</body>
+
+<template name="searchForm">
+  <form class="form-inline" role="form">
+	  <div class="form-group">
+	    <input class="form-control" id="inputCountry" placeholder="Enter country name"/>
+	  </div>
+	  <div class="form-group">
+		<input class="form-control" id="inputCity" placeholder="Enter city name"/>
+	  </div>
+	  <div class="form-group">
+	   <label class="control-label" for="selectNbResult">Number of results</label>
+	  <div class="controls">
+	    <select id="selectNbResult" name="selectNbResult" class="input-medium">
+	      <option>10</option>
+	      <option>20</option>
+	      <option>50</option>
+	      <option>100</option>
+	    </select>
+	  </div>
+	</div>
+	<div class="form-group">
+	   <label class="control-label" for="selectOrderBy">Order by</label>
+	  <div class="controls">
+	    <select id="selectOrderBy" name="selectOrderBy" class="input-medium">
+	      <option value ="name">Name</option>
+	      <option value ="id">Id</option>
+	      <option value ="joindate">Join date</option>
+	      <option value ="popularity_total">Popularity total</option>
+	      <option value ="popularity_month">Popularity month</option>
+	      <option value ="popularity_week">Popularity week</option>
+	    </select>
+	  </div>
+	</div>
+	<div class="form-group">
+	   <label class="control-label" for="selectAsc">Asc/Desc</label>
+	  <div class="controls">
+	    <select id="selectAsc" name="selectAsc" class="input-medium">
+	      <option value ="asc">Asc</option>
+	      <option value ="desc">Desc</option>
+	    </select>
+	  </div>
+	</div>
+	  <input id="searchButton" type="button" value="search" />
+  </form>
+</template>
+
+<template name="artistList">
+	<div class="container">
+		{{#if artists}}
+		<div class="row">
+	      {{#each artists}}
+	        {{> artistRow}} 
+	      {{/each}}
+	     </div>
+	    {{else}}
+	      {{> noArtist}}
+	    {{/if}}
+	</div>
+</template>
+
+<template name="artistRow">
+	<div class ="artistRow col-sm-6 col-md-3">
+		<div class = "artistImg thumbnail" style="text-align:center;">
+				<h3>{{name}}</h3>
+				{{#if image}}
+					<img src="{{image}}" style="width:100px;height:auto" />
+				{{else}}
+					<img src="http://imgjam2.jamendo.com/mandarine/layout/artiste_avatar.jpg" style="width:100px;height:auto" />
+				{{/if}}
+			<div class="artistInfo caption">
+				<p>
+					Joined {{prettifyDate joindate}}<br/>
+					<a href ="{{website}}">site</a><br/>
+					<a href ="http://www.jamendo.com/en/artist/{{id}}/{{name}}">Jamendo</a><br/>
+				</p>
+			</div>
+		</div>
+	</div>
+</template>
+
+<template name="noArtist">
+  <div>
+    <h1>No Artist found :( </h1>
+  </div>
+</template>

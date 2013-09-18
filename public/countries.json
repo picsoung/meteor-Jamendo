@@ -1,0 +1,1342 @@
+[
+  {
+    "value":"Afghanistan",
+    "ISO":"AFG",
+    "tokens":["Afghanistan"]
+  },
+  {
+    "value":"Albania",
+    "ISO":"ALB",
+    "tokens":["Albania"]
+  },
+  {
+    "value":"Algeria",
+    "ISO":"DZA",
+    "tokens":["Algeria"]
+  },
+  {
+    "value":"Andorra",
+    "ISO":"AND",
+    "tokens":["Andorra"]
+  },
+  {
+    "value":"Angola",
+    "ISO":"AGO",
+    "tokens":["Angola"]
+  },
+  {
+    "value":"Antigua and Barbuda",
+    "ISO":"ATG",
+    "tokens":["Antigua and Barbuda"]
+  },
+  {
+    "value":"Argentina",
+    "ISO":"ARG",
+    "tokens":["Argentina"]
+  },
+  {
+    "value":"Armenia",
+    "ISO":"ARM",
+    "tokens":["Armenia"]
+  },
+  {
+    "value":"Australia",
+    "ISO":"AUS",
+    "tokens":["Australia"]
+  },
+  {
+    "value":"Austria",
+    "ISO":"AUT",
+    "tokens":["Austria"]
+  },
+  {
+    "value":"Azerbaijan",
+    "ISO":"AZE",
+    "tokens":["Azerbaijan"]
+  },
+  {
+    "value":"Bahamas, The",
+    "ISO":"BHS",
+    "tokens":["Bahamas, The"]
+  },
+  {
+    "value":"Bahrain",
+    "ISO":"BHR",
+    "tokens":["Bahrain"]
+  },
+  {
+    "value":"Bangladesh",
+    "ISO":"BGD",
+    "tokens":["Bangladesh"]
+  },
+  {
+    "value":"Barbados",
+    "ISO":"BRB",
+    "tokens":["Barbados"]
+  },
+  {
+    "value":"Belarus",
+    "ISO":"BLR",
+    "tokens":["Belarus"]
+  },
+  {
+    "value":"Belgium",
+    "ISO":"BEL",
+    "tokens":["Belgium"]
+  },
+  {
+    "value":"Belize",
+    "ISO":"BLZ",
+    "tokens":["Belize"]
+  },
+  {
+    "value":"Benin",
+    "ISO":"BEN",
+    "tokens":["Benin"]
+  },
+  {
+    "value":"Bhutan",
+    "ISO":"BTN",
+    "tokens":["Bhutan"]
+  },
+  {
+    "value":"Bolivia",
+    "ISO":"BOL",
+    "tokens":["Bolivia"]
+  },
+  {
+    "value":"Bosnia and Herzegovina",
+    "ISO":"BIH",
+    "tokens":["Bosnia and Herzegovina"]
+  },
+  {
+    "value":"Botswana",
+    "ISO":"BWA",
+    "tokens":["Botswana"]
+  },
+  {
+    "value":"Brazil",
+    "ISO":"BRA",
+    "tokens":["Brazil"]
+  },
+  {
+    "value":"Brunei",
+    "ISO":"BRN",
+    "tokens":["Brunei"]
+  },
+  {
+    "value":"Bulgaria",
+    "ISO":"BGR",
+    "tokens":["Bulgaria"]
+  },
+  {
+    "value":"Burkina Faso",
+    "ISO":"BFA",
+    "tokens":["Burkina Faso"]
+  },
+  {
+    "value":"Burundi",
+    "ISO":"BDI",
+    "tokens":["Burundi"]
+  },
+  {
+    "value":"Cambodia",
+    "ISO":"KHM",
+    "tokens":["Cambodia"]
+  },
+  {
+    "value":"Cameroon",
+    "ISO":"CMR",
+    "tokens":["Cameroon"]
+  },
+  {
+    "value":"Canada",
+    "ISO":"CAN",
+    "tokens":["Canada"]
+  },
+  {
+    "value":"Cape Verde",
+    "ISO":"CPV",
+    "tokens":["Cape Verde"]
+  },
+  {
+    "value":"Central African Republic",
+    "ISO":"CAF",
+    "tokens":["Central African Republic"]
+  },
+  {
+    "value":"Chad",
+    "ISO":"TCD",
+    "tokens":["Chad"]
+  },
+  {
+    "value":"Chile",
+    "ISO":"CHL",
+    "tokens":["Chile"]
+  },
+  {
+    "value":"China, People's Republic of",
+    "ISO":"CHN",
+    "tokens":["China, People's Republic of"]
+  },
+  {
+    "value":"Colombia",
+    "ISO":"COL",
+    "tokens":["Colombia"]
+  },
+  {
+    "value":"Comoros",
+    "ISO":"COM",
+    "tokens":["Comoros"]
+  },
+  {
+    "value":"Congo, (Congo Î_ Kinshasa)",
+    "ISO":"COD",
+    "tokens":["Congo, (Congo Î_ Kinshasa)"]
+  },
+  {
+    "value":"Congo, (Congo Î_ Brazzaville)",
+    "ISO":"COG",
+    "tokens":["Congo, (Congo Î_ Brazzaville)"]
+  },
+  {
+    "value":"Costa Rica",
+    "ISO":"CRI",
+    "tokens":["Costa Rica"]
+  },
+  {
+    "value":"Cote d'Ivoire (Ivory Coast)",
+    "ISO":"CIV",
+    "tokens":["Cote d'Ivoire (Ivory Coast)"]
+  },
+  {
+    "value":"Croatia",
+    "ISO":"HRV",
+    "tokens":["Croatia"]
+  },
+  {
+    "value":"Cuba",
+    "ISO":"CUB",
+    "tokens":["Cuba"]
+  },
+  {
+    "value":"Cyprus",
+    "ISO":"CYP",
+    "tokens":["Cyprus"]
+  },
+  {
+    "value":"Czech Republic",
+    "ISO":"CZE",
+    "tokens":["Czech Republic"]
+  },
+  {
+    "value":"Denmark",
+    "ISO":"DNK",
+    "tokens":["Denmark"]
+  },
+  {
+    "value":"Djibouti",
+    "ISO":"DJI",
+    "tokens":["Djibouti"]
+  },
+  {
+    "value":"Dominica",
+    "ISO":"DMA",
+    "tokens":["Dominica"]
+  },
+  {
+    "value":"Dominican Republic",
+    "ISO":"DOM",
+    "tokens":["Dominican Republic"]
+  },
+  {
+    "value":"Ecuador",
+    "ISO":"ECU",
+    "tokens":["Ecuador"]
+  },
+  {
+    "value":"Egypt",
+    "ISO":"EGY",
+    "tokens":["Egypt"]
+  },
+  {
+    "value":"El Salvador",
+    "ISO":"SLV",
+    "tokens":["El Salvador"]
+  },
+  {
+    "value":"Equatorial Guinea",
+    "ISO":"GNQ",
+    "tokens":["Equatorial Guinea"]
+  },
+  {
+    "value":"Eritrea",
+    "ISO":"ERI",
+    "tokens":["Eritrea"]
+  },
+  {
+    "value":"Estonia",
+    "ISO":"EST",
+    "tokens":["Estonia"]
+  },
+  {
+    "value":"Ethiopia",
+    "ISO":"ETH",
+    "tokens":["Ethiopia"]
+  },
+  {
+    "value":"Fiji",
+    "ISO":"FJI",
+    "tokens":["Fiji"]
+  },
+  {
+    "value":"Finland",
+    "ISO":"FIN",
+    "tokens":["Finland"]
+  },
+  {
+    "value":"France",
+    "ISO":"FRA",
+    "tokens":["France"]
+  },
+  {
+    "value":"Gabon",
+    "ISO":"GAB",
+    "tokens":["Gabon"]
+  },
+  {
+    "value":"Gambia, The",
+    "ISO":"GMB",
+    "tokens":["Gambia, The"]
+  },
+  {
+    "value":"Georgia",
+    "ISO":"GEO",
+    "tokens":["Georgia"]
+  },
+  {
+    "value":"Germany",
+    "ISO":"DEU",
+    "tokens":["Germany"]
+  },
+  {
+    "value":"Ghana",
+    "ISO":"GHA",
+    "tokens":["Ghana"]
+  },
+  {
+    "value":"Greece",
+    "ISO":"GRC",
+    "tokens":["Greece"]
+  },
+  {
+    "value":"Grenada",
+    "ISO":"GRD",
+    "tokens":["Grenada"]
+  },
+  {
+    "value":"Guatemala",
+    "ISO":"GTM",
+    "tokens":["Guatemala"]
+  },
+  {
+    "value":"Guinea",
+    "ISO":"GIN",
+    "tokens":["Guinea"]
+  },
+  {
+    "value":"Guinea-Bissau",
+    "ISO":"GNB",
+    "tokens":["Guinea-Bissau"]
+  },
+  {
+    "value":"Guyana",
+    "ISO":"GUY",
+    "tokens":["Guyana"]
+  },
+  {
+    "value":"Haiti",
+    "ISO":"HTI",
+    "tokens":["Haiti"]
+  },
+  {
+    "value":"Honduras",
+    "ISO":"HND",
+    "tokens":["Honduras"]
+  },
+  {
+    "value":"Hungary",
+    "ISO":"HUN",
+    "tokens":["Hungary"]
+  },
+  {
+    "value":"Iceland",
+    "ISO":"ISL",
+    "tokens":["Iceland"]
+  },
+  {
+    "value":"India",
+    "ISO":"IND",
+    "tokens":["India"]
+  },
+  {
+    "value":"Indonesia",
+    "ISO":"IDN",
+    "tokens":["Indonesia"]
+  },
+  {
+    "value":"Iran",
+    "ISO":"IRN",
+    "tokens":["Iran"]
+  },
+  {
+    "value":"Iraq",
+    "ISO":"IRQ",
+    "tokens":["Iraq"]
+  },
+  {
+    "value":"Ireland",
+    "ISO":"IRL",
+    "tokens":["Ireland"]
+  },
+  {
+    "value":"Israel",
+    "ISO":"ISR",
+    "tokens":["Israel"]
+  },
+  {
+    "value":"Italy",
+    "ISO":"ITA",
+    "tokens":["Italy"]
+  },
+  {
+    "value":"Jamaica",
+    "ISO":"JAM",
+    "tokens":["Jamaica"]
+  },
+  {
+    "value":"Japan",
+    "ISO":"JPN",
+    "tokens":["Japan"]
+  },
+  {
+    "value":"Jordan",
+    "ISO":"JOR",
+    "tokens":["Jordan"]
+  },
+  {
+    "value":"Kazakhstan",
+    "ISO":"KAZ",
+    "tokens":["Kazakhstan"]
+  },
+  {
+    "value":"Kenya",
+    "ISO":"KEN",
+    "tokens":["Kenya"]
+  },
+  {
+    "value":"Kiribati",
+    "ISO":"KIR",
+    "tokens":["Kiribati"]
+  },
+  {
+    "value":"Korea, North",
+    "ISO":"PRK",
+    "tokens":["Korea, North"]
+  },
+  {
+    "value":"Korea, South",
+    "ISO":"KOR",
+    "tokens":["Korea, South"]
+  },
+  {
+    "value":"Kuwait",
+    "ISO":"KWT",
+    "tokens":["Kuwait"]
+  },
+  {
+    "value":"Kyrgyzstan",
+    "ISO":"KGZ",
+    "tokens":["Kyrgyzstan"]
+  },
+  {
+    "value":"Laos",
+    "ISO":"LAO",
+    "tokens":["Laos"]
+  },
+  {
+    "value":"Latvia",
+    "ISO":"LVA",
+    "tokens":["Latvia"]
+  },
+  {
+    "value":"Lebanon",
+    "ISO":"LBN",
+    "tokens":["Lebanon"]
+  },
+  {
+    "value":"Lesotho",
+    "ISO":"LSO",
+    "tokens":["Lesotho"]
+  },
+  {
+    "value":"Liberia",
+    "ISO":"LBR",
+    "tokens":["Liberia"]
+  },
+  {
+    "value":"Libya",
+    "ISO":"LBY",
+    "tokens":["Libya"]
+  },
+  {
+    "value":"Liechtenstein",
+    "ISO":"LIE",
+    "tokens":["Liechtenstein"]
+  },
+  {
+    "value":"Lithuania",
+    "ISO":"LTU",
+    "tokens":["Lithuania"]
+  },
+  {
+    "value":"Luxembourg",
+    "ISO":"LUX",
+    "tokens":["Luxembourg"]
+  },
+  {
+    "value":"Macedonia",
+    "ISO":"MKD",
+    "tokens":["Macedonia"]
+  },
+  {
+    "value":"Madagascar",
+    "ISO":"MDG",
+    "tokens":["Madagascar"]
+  },
+  {
+    "value":"Malawi",
+    "ISO":"MWI",
+    "tokens":["Malawi"]
+  },
+  {
+    "value":"Malaysia",
+    "ISO":"MYS",
+    "tokens":["Malaysia"]
+  },
+  {
+    "value":"Maldives",
+    "ISO":"MDV",
+    "tokens":["Maldives"]
+  },
+  {
+    "value":"Mali",
+    "ISO":"MLI",
+    "tokens":["Mali"]
+  },
+  {
+    "value":"Malta",
+    "ISO":"MLT",
+    "tokens":["Malta"]
+  },
+  {
+    "value":"Marshall Islands",
+    "ISO":"MHL",
+    "tokens":["Marshall Islands"]
+  },
+  {
+    "value":"Mauritania",
+    "ISO":"MRT",
+    "tokens":["Mauritania"]
+  },
+  {
+    "value":"Mauritius",
+    "ISO":"MUS",
+    "tokens":["Mauritius"]
+  },
+  {
+    "value":"Mexico",
+    "ISO":"MEX",
+    "tokens":["Mexico"]
+  },
+  {
+    "value":"Micronesia",
+    "ISO":"FSM",
+    "tokens":["Micronesia"]
+  },
+  {
+    "value":"Moldova",
+    "ISO":"MDA",
+    "tokens":["Moldova"]
+  },
+  {
+    "value":"Monaco",
+    "ISO":"MCO",
+    "tokens":["Monaco"]
+  },
+  {
+    "value":"Mongolia",
+    "ISO":"MNG",
+    "tokens":["Mongolia"]
+  },
+  {
+    "value":"Montenegro",
+    "ISO":"MNE",
+    "tokens":["Montenegro"]
+  },
+  {
+    "value":"Morocco",
+    "ISO":"MAR",
+    "tokens":["Morocco"]
+  },
+  {
+    "value":"Mozambique",
+    "ISO":"MOZ",
+    "tokens":["Mozambique"]
+  },
+  {
+    "value":"Myanmar (Burma)",
+    "ISO":"MMR",
+    "tokens":["Myanmar (Burma)"]
+  },
+  {
+    "value":"Namibia",
+    "ISO":"NAM",
+    "tokens":["Namibia"]
+  },
+  {
+    "value":"Nauru",
+    "ISO":"NRU",
+    "tokens":["Nauru"]
+  },
+  {
+    "value":"Nepal",
+    "ISO":"NPL",
+    "tokens":["Nepal"]
+  },
+  {
+    "value":"Netherlands",
+    "ISO":"NLD",
+    "tokens":["Netherlands"]
+  },
+  {
+    "value":"New Zealand",
+    "ISO":"NZL",
+    "tokens":["New Zealand"]
+  },
+  {
+    "value":"Nicaragua",
+    "ISO":"NIC",
+    "tokens":["Nicaragua"]
+  },
+  {
+    "value":"Niger",
+    "ISO":"NER",
+    "tokens":["Niger"]
+  },
+  {
+    "value":"Nigeria",
+    "ISO":"NGA",
+    "tokens":["Nigeria"]
+  },
+  {
+    "value":"Norway",
+    "ISO":"NOR",
+    "tokens":["Norway"]
+  },
+  {
+    "value":"Oman",
+    "ISO":"OMN",
+    "tokens":["Oman"]
+  },
+  {
+    "value":"Pakistan",
+    "ISO":"PAK",
+    "tokens":["Pakistan"]
+  },
+  {
+    "value":"Palau",
+    "ISO":"PLW",
+    "tokens":["Palau"]
+  },
+  {
+    "value":"Panama",
+    "ISO":"PAN",
+    "tokens":["Panama"]
+  },
+  {
+    "value":"Papua New Guinea",
+    "ISO":"PNG",
+    "tokens":["Papua New Guinea"]
+  },
+  {
+    "value":"Paraguay",
+    "ISO":"PRY",
+    "tokens":["Paraguay"]
+  },
+  {
+    "value":"Peru",
+    "ISO":"PER",
+    "tokens":["Peru"]
+  },
+  {
+    "value":"Philippines",
+    "ISO":"PHL",
+    "tokens":["Philippines"]
+  },
+  {
+    "value":"Poland",
+    "ISO":"POL",
+    "tokens":["Poland"]
+  },
+  {
+    "value":"Portugal",
+    "ISO":"PRT",
+    "tokens":["Portugal"]
+  },
+  {
+    "value":"Qatar",
+    "ISO":"QAT",
+    "tokens":["Qatar"]
+  },
+  {
+    "value":"Romania",
+    "ISO":"ROU",
+    "tokens":["Romania"]
+  },
+  {
+    "value":"Russia",
+    "ISO":"RUS",
+    "tokens":["Russia"]
+  },
+  {
+    "value":"Rwanda",
+    "ISO":"RWA",
+    "tokens":["Rwanda"]
+  },
+  {
+    "value":"Saint Kitts and Nevis",
+    "ISO":"KNA",
+    "tokens":["Saint Kitts and Nevis"]
+  },
+  {
+    "value":"Saint Lucia",
+    "ISO":"LCA",
+    "tokens":["Saint Lucia"]
+  },
+  {
+    "value":"Saint Vincent and the Grenadines",
+    "ISO":"VCT",
+    "tokens":["Saint Vincent and the Grenadines"]
+  },
+  {
+    "value":"Samoa",
+    "ISO":"WSM",
+    "tokens":["Samoa"]
+  },
+  {
+    "value":"San Marino",
+    "ISO":"SMR",
+    "tokens":["San Marino"]
+  },
+  {
+    "value":"Sao Tome and Principe",
+    "ISO":"STP",
+    "tokens":["Sao Tome and Principe"]
+  },
+  {
+    "value":"Saudi Arabia",
+    "ISO":"SAU",
+    "tokens":["Saudi Arabia"]
+  },
+  {
+    "value":"Senegal",
+    "ISO":"SEN",
+    "tokens":["Senegal"]
+  },
+  {
+    "value":"Serbia",
+    "ISO":"SRB",
+    "tokens":["Serbia"]
+  },
+  {
+    "value":"Seychelles",
+    "ISO":"SYC",
+    "tokens":["Seychelles"]
+  },
+  {
+    "value":"Sierra Leone",
+    "ISO":"SLE",
+    "tokens":["Sierra Leone"]
+  },
+  {
+    "value":"Singapore",
+    "ISO":"SGP",
+    "tokens":["Singapore"]
+  },
+  {
+    "value":"Slovakia",
+    "ISO":"SVK",
+    "tokens":["Slovakia"]
+  },
+  {
+    "value":"Slovenia",
+    "ISO":"SVN",
+    "tokens":["Slovenia"]
+  },
+  {
+    "value":"Solomon Islands",
+    "ISO":"SLB",
+    "tokens":["Solomon Islands"]
+  },
+  {
+    "value":"Somalia",
+    "ISO":"SOM",
+    "tokens":["Somalia"]
+  },
+  {
+    "value":"South Africa",
+    "ISO":"ZAF",
+    "tokens":["South Africa"]
+  },
+  {
+    "value":"Spain",
+    "ISO":"ESP",
+    "tokens":["Spain"]
+  },
+  {
+    "value":"Sri Lanka",
+    "ISO":"LKA",
+    "tokens":["Sri Lanka"]
+  },
+  {
+    "value":"Sudan",
+    "ISO":"SDN",
+    "tokens":["Sudan"]
+  },
+  {
+    "value":"Suriname",
+    "ISO":"SUR",
+    "tokens":["Suriname"]
+  },
+  {
+    "value":"Swaziland",
+    "ISO":"SWZ",
+    "tokens":["Swaziland"]
+  },
+  {
+    "value":"Sweden",
+    "ISO":"SWE",
+    "tokens":["Sweden"]
+  },
+  {
+    "value":"Switzerland",
+    "ISO":"CHE",
+    "tokens":["Switzerland"]
+  },
+  {
+    "value":"Syria",
+    "ISO":"SYR",
+    "tokens":["Syria"]
+  },
+  {
+    "value":"Tajikistan",
+    "ISO":"TJK",
+    "tokens":["Tajikistan"]
+  },
+  {
+    "value":"Tanzania",
+    "ISO":"TZA",
+    "tokens":["Tanzania"]
+  },
+  {
+    "value":"Thailand",
+    "ISO":"THA",
+    "tokens":["Thailand"]
+  },
+  {
+    "value":"Timor-Leste (East Timor)",
+    "ISO":"TLS",
+    "tokens":["Timor-Leste (East Timor)"]
+  },
+  {
+    "value":"Togo",
+    "ISO":"TGO",
+    "tokens":["Togo"]
+  },
+  {
+    "value":"Tonga",
+    "ISO":"TON",
+    "tokens":["Tonga"]
+  },
+  {
+    "value":"Trinidad and Tobago",
+    "ISO":"TTO",
+    "tokens":["Trinidad and Tobago"]
+  },
+  {
+    "value":"Tunisia",
+    "ISO":"TUN",
+    "tokens":["Tunisia"]
+  },
+  {
+    "value":"Turkey",
+    "ISO":"TUR",
+    "tokens":["Turkey"]
+  },
+  {
+    "value":"Turkmenistan",
+    "ISO":"TKM",
+    "tokens":["Turkmenistan"]
+  },
+  {
+    "value":"Tuvalu",
+    "ISO":"TUV",
+    "tokens":["Tuvalu"]
+  },
+  {
+    "value":"Uganda",
+    "ISO":"UGA",
+    "tokens":["Uganda"]
+  },
+  {
+    "value":"Ukraine",
+    "ISO":"UKR",
+    "tokens":["Ukraine"]
+  },
+  {
+    "value":"United Arab Emirates",
+    "ISO":"ARE",
+    "tokens":["United Arab Emirates"]
+  },
+  {
+    "value":"United Kingdom",
+    "ISO":"GBR",
+    "tokens":["United Kingdom"]
+  },
+  {
+    "value":"United States",
+    "ISO":"USA",
+    "tokens":["United States"]
+  },
+  {
+    "value":"Uruguay",
+    "ISO":"URY",
+    "tokens":["Uruguay"]
+  },
+  {
+    "value":"Uzbekistan",
+    "ISO":"UZB",
+    "tokens":["Uzbekistan"]
+  },
+  {
+    "value":"Vanuatu",
+    "ISO":"VUT",
+    "tokens":["Vanuatu"]
+  },
+  {
+    "value":"Vatican City",
+    "ISO":"VAT",
+    "tokens":["Vatican City"]
+  },
+  {
+    "value":"Venezuela",
+    "ISO":"VEN",
+    "tokens":["Venezuela"]
+  },
+  {
+    "value":"Vietnam",
+    "ISO":"VNM",
+    "tokens":["Vietnam"]
+  },
+  {
+    "value":"Yemen",
+    "ISO":"YEM",
+    "tokens":["Yemen"]
+  },
+  {
+    "value":"Zambia",
+    "ISO":"ZMB",
+    "tokens":["Zambia"]
+  },
+  {
+    "value":"Zimbabwe",
+    "ISO":"ZWE",
+    "tokens":["Zimbabwe"]
+  },
+  {
+    "value":"Abkhazia",
+    "ISO":"GEO",
+    "tokens":["Abkhazia"]
+  },
+  {
+    "value":"China, Republic of (Taiwan)",
+    "ISO":"TWN",
+    "tokens":["China, Republic of (Taiwan)"]
+  },
+  {
+    "value":"Nagorno-Karabakh",
+    "ISO":"AZE",
+    "tokens":["Nagorno-Karabakh"]
+  },
+  {
+    "value":"Northern Cyprus",
+    "ISO":"CYP",
+    "tokens":["Northern Cyprus"]
+  },
+  {
+    "value":"Pridnestrovie (Transnistria)",
+    "ISO":"MDA",
+    "tokens":["Pridnestrovie (Transnistria)"]
+  },
+  {
+    "value":"Somaliland",
+    "ISO":"SOM",
+    "tokens":["Somaliland"]
+  },
+  {
+    "value":"South Ossetia",
+    "ISO":"GEO",
+    "tokens":["South Ossetia"]
+  },
+  {
+    "value":"Ashmore and Cartier Islands",
+    "ISO":"AUS",
+    "tokens":["Ashmore and Cartier Islands"]
+  },
+  {
+    "value":"Christmas Island",
+    "ISO":"CXR",
+    "tokens":["Christmas Island"]
+  },
+  {
+    "value":"Cocos (Keeling) Islands",
+    "ISO":"CCK",
+    "tokens":["Cocos (Keeling) Islands"]
+  },
+  {
+    "value":"Coral Sea Islands",
+    "ISO":"AUS",
+    "tokens":["Coral Sea Islands"]
+  },
+  {
+    "value":"Heard Island and McDonald Islands",
+    "ISO":"HMD",
+    "tokens":["Heard Island and McDonald Islands"]
+  },
+  {
+    "value":"Norfolk Island",
+    "ISO":"NFK",
+    "tokens":["Norfolk Island"]
+  },
+  {
+    "value":"New Caledonia",
+    "ISO":"NCL",
+    "tokens":["New Caledonia"]
+  },
+  {
+    "value":"French Polynesia",
+    "ISO":"PYF",
+    "tokens":["French Polynesia"]
+  },
+  {
+    "value":"Mayotte",
+    "ISO":"MYT",
+    "tokens":["Mayotte"]
+  },
+  {
+    "value":"Saint Barthelemy",
+    "ISO":"GLP",
+    "tokens":["Saint Barthelemy"]
+  },
+  {
+    "value":"Saint Martin",
+    "ISO":"GLP",
+    "tokens":["Saint Martin"]
+  },
+  {
+    "value":"Saint Pierre and Miquelon",
+    "ISO":"SPM",
+    "tokens":["Saint Pierre and Miquelon"]
+  },
+  {
+    "value":"Wallis and Futuna",
+    "ISO":"WLF",
+    "tokens":["Wallis and Futuna"]
+  },
+  {
+    "value":"French Southern and Antarctic Lands",
+    "ISO":"ATF",
+    "tokens":["French Southern and Antarctic Lands"]
+  },
+  {
+    "value":"Clipperton Island",
+    "ISO":"PYF",
+    "tokens":["Clipperton Island"]
+  },
+  {
+    "value":"Bouvet Island",
+    "ISO":"BVT",
+    "tokens":["Bouvet Island"]
+  },
+  {
+    "value":"Cook Islands",
+    "ISO":"COK",
+    "tokens":["Cook Islands"]
+  },
+  {
+    "value":"Niue",
+    "ISO":"NIU",
+    "tokens":["Niue"]
+  },
+  {
+    "value":"Tokelau",
+    "ISO":"TKL",
+    "tokens":["Tokelau"]
+  },
+  {
+    "value":"Guernsey",
+    "ISO":"GGY",
+    "tokens":["Guernsey"]
+  },
+  {
+    "value":"Isle of Man",
+    "ISO":"IMN",
+    "tokens":["Isle of Man"]
+  },
+  {
+    "value":"Jersey",
+    "ISO":"JEY",
+    "tokens":["Jersey"]
+  },
+  {
+    "value":"Anguilla",
+    "ISO":"AIA",
+    "tokens":["Anguilla"]
+  },
+  {
+    "value":"Bermuda",
+    "ISO":"BMU",
+    "tokens":["Bermuda"]
+  },
+  {
+    "value":"British Indian Ocean Territory",
+    "ISO":"IOT",
+    "tokens":["British Indian Ocean Territory"]
+  },
+  {
+    "value":"British Sovereign Base Areas",
+    "ISO":"",
+    "tokens":["British Sovereign Base Areas"]
+  },
+  {
+    "value":"British Virgin Islands",
+    "ISO":"VGB",
+    "tokens":["British Virgin Islands"]
+  },
+  {
+    "value":"Cayman Islands",
+    "ISO":"CYM",
+    "tokens":["Cayman Islands"]
+  },
+  {
+    "value":"Falkland Islands (Islas Malvinas)",
+    "ISO":"FLK",
+    "tokens":["Falkland Islands (Islas Malvinas)"]
+  },
+  {
+    "value":"Gibraltar",
+    "ISO":"GIB",
+    "tokens":["Gibraltar"]
+  },
+  {
+    "value":"Montserrat",
+    "ISO":"MSR",
+    "tokens":["Montserrat"]
+  },
+  {
+    "value":"Pitcairn Islands",
+    "ISO":"PCN",
+    "tokens":["Pitcairn Islands"]
+  },
+  {
+    "value":"Saint Helena",
+    "ISO":"SHN",
+    "tokens":["Saint Helena"]
+  },
+  {
+    "value":"South Georgia & South Sandwich Islands",
+    "ISO":"SGS",
+    "tokens":["South Georgia & South Sandwich Islands"]
+  },
+  {
+    "value":"Turks and Caicos Islands",
+    "ISO":"TCA",
+    "tokens":["Turks and Caicos Islands"]
+  },
+  {
+    "value":"Northern Mariana Islands",
+    "ISO":"MNP",
+    "tokens":["Northern Mariana Islands"]
+  },
+  {
+    "value":"Puerto Rico",
+    "ISO":"PRI",
+    "tokens":["Puerto Rico"]
+  },
+  {
+    "value":"American Samoa",
+    "ISO":"ASM",
+    "tokens":["American Samoa"]
+  },
+  {
+    "value":"Baker Island",
+    "ISO":"UMI",
+    "tokens":["Baker Island"]
+  },
+  {
+    "value":"Guam",
+    "ISO":"GUM",
+    "tokens":["Guam"]
+  },
+  {
+    "value":"Howland Island",
+    "ISO":"UMI",
+    "tokens":["Howland Island"]
+  },
+  {
+    "value":"Jarvis Island",
+    "ISO":"UMI",
+    "tokens":["Jarvis Island"]
+  },
+  {
+    "value":"Johnston Atoll",
+    "ISO":"UMI",
+    "tokens":["Johnston Atoll"]
+  },
+  {
+    "value":"Kingman Reef",
+    "ISO":"UMI",
+    "tokens":["Kingman Reef"]
+  },
+  {
+    "value":"Midway Islands",
+    "ISO":"UMI",
+    "tokens":["Midway Islands"]
+  },
+  {
+    "value":"Navassa Island",
+    "ISO":"UMI",
+    "tokens":["Navassa Island"]
+  },
+  {
+    "value":"Palmyra Atoll",
+    "ISO":"UMI",
+    "tokens":["Palmyra Atoll"]
+  },
+  {
+    "value":"U.S. Virgin Islands",
+    "ISO":"VIR",
+    "tokens":["U.S. Virgin Islands"]
+  },
+  {
+    "value":"Wake Island",
+    "ISO":"UMI",
+    "tokens":["Wake Island"]
+  },
+  {
+    "value":"Hong Kong",
+    "ISO":"HKG",
+    "tokens":["Hong Kong"]
+  },
+  {
+    "value":"Macau",
+    "ISO":"MAC",
+    "tokens":["Macau"]
+  },
+  {
+    "value":"Faroe Islands",
+    "ISO":"FRO",
+    "tokens":["Faroe Islands"]
+  },
+  {
+    "value":"Greenland",
+    "ISO":"GRL",
+    "tokens":["Greenland"]
+  },
+  {
+    "value":"French Guiana",
+    "ISO":"GUF",
+    "tokens":["French Guiana"]
+  },
+  {
+    "value":"Guadeloupe",
+    "ISO":"GLP",
+    "tokens":["Guadeloupe"]
+  },
+  {
+    "value":"Martinique",
+    "ISO":"MTQ",
+    "tokens":["Martinique"]
+  },
+  {
+    "value":"Reunion",
+    "ISO":"REU",
+    "tokens":["Reunion"]
+  },
+  {
+    "value":"Aland",
+    "ISO":"ALA",
+    "tokens":["Aland"]
+  },
+  {
+    "value":"Aruba",
+    "ISO":"ABW",
+    "tokens":["Aruba"]
+  },
+  {
+    "value":"Netherlands Antilles",
+    "ISO":"ANT",
+    "tokens":["Netherlands Antilles"]
+  },
+  {
+    "value":"Svalbard",
+    "ISO":"SJM",
+    "tokens":["Svalbard"]
+  },
+  {
+    "value":"Ascension",
+    "ISO":"ASC",
+    "tokens":["Ascension"]
+  },
+  {
+    "value":"Tristan da Cunha",
+    "ISO":"TAA",
+    "tokens":["Tristan da Cunha"]
+  },
+  {
+    "value":"Australian Antarctic Territory",
+    "ISO":"ATA",
+    "tokens":["Australian Antarctic Territory"]
+  },
+  {
+    "value":"Ross Dependency",
+    "ISO":"ATA",
+    "tokens":["Ross Dependency"]
+  },
+  {
+    "value":"Peter I Island",
+    "ISO":"ATA",
+    "tokens":["Peter I Island"]
+  },
+  {
+    "value":"Queen Maud Land",
+    "ISO":"ATA",
+    "tokens":["Queen Maud Land"]
+  },
+  {
+    "value":"British Antarctic Territory",
+    "ISO":"ATA",
+    "tokens":["British Antarctic Territory"]
+  }
+]
