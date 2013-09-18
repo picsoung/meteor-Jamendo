@@ -56,15 +56,18 @@
 
 <template name="artistList">
 	<div class="container">
-		{{#if artists}}
-		<div class="row">
-	      {{#each artists}}
-	        {{> artistRow}} 
-	      {{/each}}
-	     </div>
-	    {{else}}
-	      {{> noArtist}}
-	    {{/if}}
+		{{#if searched}}
+			{{#if artists}}
+			<div class="row">
+		      {{#each artists}}
+		        {{> artistRow}} 
+		      {{/each}}
+		     </div>
+		    {{else}}
+
+		      {{> noArtist}}
+		    {{/if}}
+		{{/if}}
 	</div>
 </template>
 

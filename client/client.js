@@ -4,10 +4,6 @@ if (Meteor.isClient) {
   // Meteor.subscribe("countries");
   var artists = {};
 
-  Template.searchForm.greeting = function () {
-    return "Welcome to localJam.";
-  };
-
   var onSelected = function(evt,datum){
     Session.set('selectedCountry',datum);
   }
@@ -30,7 +26,9 @@ if (Meteor.isClient) {
                                       $("#selectOrderBy").val(),
                                       $("#selectAsc").val(),
                                       function(err,data){
+
         Session.set('artists', data);
+        Session.set('searched',true);
       });
     },
   });
@@ -38,6 +36,12 @@ if (Meteor.isClient) {
   Template.artistList.helpers({
     artists: function(){
       return Session.get('artists');
+    },
+  });
+
+  Template.artistList.helpers({
+    searched: function(){
+      return Session.get('searched');
     },
   });
 
