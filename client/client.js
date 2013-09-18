@@ -15,7 +15,7 @@ if (Meteor.isClient) {
   Template.searchForm.rendered = function () {
     $('#inputCountry').typeahead({
         name: 'countries',
-        prefetch: 'http://localhost:3000/countries.json',                                      
+        prefetch: '/countries.json',                                      
         limit: 10,
       });
 
