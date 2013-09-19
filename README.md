@@ -18,6 +18,9 @@ Jamendo is free music website. Their API is propulsed by [3scale](http://3scale.
 ## Usage
 
 1. Put your Jamendo API key in the _settings.json_ file.
-2. Launch the app using the command meteor --settings settings.json
+2. Launch the app using the command:
+   ```
+    meteor --settings settings.json
+   ```
 
 
