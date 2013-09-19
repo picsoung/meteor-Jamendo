@@ -23,4 +23,15 @@ Jamendo is free music website. Their API is propulsed by [3scale](http://3scale.
     meteor --settings settings.json
    ```
 
+## What it does
+
+Search for bands on Jamendo depending on a city name.
+
+1. Write country name
+2. Write city name
+3. Choose ordering options
+4. Have a list of bands
+
+The countries list is a json file available in _./public/countries.json_ , _typeahead.js_ is taking care of the autocompletion. Jamendo takes ISO 3166-1 standard for country code, the list contains the corresponding _ISO_ field for a country name.
+
 
