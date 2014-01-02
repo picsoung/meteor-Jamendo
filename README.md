@@ -40,3 +40,7 @@ The countries list is a json file available in _./public/countries.json_ , _type
 
 
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/picsoung/meteor-jamendo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
